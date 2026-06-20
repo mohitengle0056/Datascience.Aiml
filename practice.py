@@ -614,9 +614,6 @@ print("Hello mindcoders!")
 # print(hat)
 
 
-# print("hello word")
-# my name is mohit gurjar
-# i am from indore
 
 
 
