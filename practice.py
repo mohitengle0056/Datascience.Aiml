@@ -546,8 +546,8 @@ print("Hello mindcoders!")
  
  
 # git add *
-# git commit -m
-# git push
+# git commit -m "update practice.py"
+# git push origin main
 
 # number =[10,5,7,2,1]
 # print(number)
