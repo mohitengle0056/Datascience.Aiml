@@ -616,6 +616,13 @@ print("Hello mindcoders!")
 
 print("mohit")
 
+numbers =[11,22,33,44,55,]
+print(len(numbers))
+del numbers[4]
+print(numbers)
+print(len(numbers))
+
+
 
 
 
