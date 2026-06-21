@@ -1,5 +1,5 @@
-print("Data science")
-print("Hello mindcoders!")
+# print("Data science")
+# print("Hello mindcoders!")
 
 
 # print('''
@@ -613,14 +613,6 @@ print("Hello mindcoders!")
 # hat[len(hat)//2]=int(input("enter a interger  numbers"))
 # print(hat)
 
-
-print("mohit")
-
-numbers =[11,22,33,44,55,]
-print(len(numbers))
-del numbers[4]
-print(numbers)
-print(len(numbers))
 
 
 
