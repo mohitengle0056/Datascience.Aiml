@@ -613,8 +613,7 @@
 # hat[len(hat)//2]=int(input("enter a interger  numbers"))
 # print(hat)
 
-
-printS
+print("mohit")
 
 
 
