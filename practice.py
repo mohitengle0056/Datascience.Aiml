@@ -613,10 +613,39 @@
 # hat[len(hat)//2]=int(input("enter a interger  numbers"))
 # print(hat)
 
-print("mohit")
+# list =[5,4,3,2,1,]
+# print(list)
+# print(f'length of list:{len(list)}')
+# list.append(6)
+# print(list)
+# print(f'length of list:{len(list)}')
 
 
+# list=[6,4,3,2,1]
+# list.append(0)
+# print(list)
 
 
+# numbers=[111,7,2,1]
+# print(len(numbers))
+# print(numbers)
 
+# numbers.append(4)
+
+# print(len(numbers))
+# print(numbers)
+
+# numbers.insert(0,222)
+# print(len(numbers))
+# print(numbers)
+
+# my_list=[1,2,3,4,5,6,7,8,9,10]
+# for count in range (len(my_list)):
+#   print(my_list[count])
+
+
+# number =[]
+# for i in range(1,11):
+#  number.append(i)
+# print(number)
 
