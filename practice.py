@@ -653,3 +653,34 @@
 # for count in range(10):
 #   my_list[count] +=1
 # print(my_list)  
+
+# number =[]
+# for i in range(1,22):
+#   number.append(i)
+# print(number)  
+
+# my_list=[10,88,89,98,84,94,84]
+# for count in range (10):
+#   my_list[count] +1
+# print(my_list)  
+
+# my_list = [8,10,6,2,4]
+# print(my_list)
+# count=0
+# for index1 in range(len(my_list)-1):
+#     for index in range (len(my_list)-1-index1):
+#         count +=1
+#     if (my_list[index] > my_list[index+1]):
+#       my_list[index], my_list[index+1] =  my_list[index+1], my_list[index]
+      
+# print(my_list)   
+# print("My program has run for :", count, "times")
+
+
+
+
+
+      
+   
+
+
