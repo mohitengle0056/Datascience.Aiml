@@ -674,13 +674,20 @@
 #       my_list[index], my_list[index+1] =  my_list[index+1], my_list[index]
       
 # print(my_list)   
-# print("My program has run for :", count, "times")
+# print("My program has run for :", count, "times") 
 
+my_list = [8,10,6,2,4]
+swapped = True 
+count = 0
+while swapped:
+  swapped = False 
+  for i in range(len(my_list)-1):
+      count +=1
+  if my_list[i]>my_list[i+1]:
+    swapped  = True
+    my_list[i],my_list[i+1]=my_list[i+1],my_list[i+1]
+print(my_list)
+print("loops are runnimg for:",count,"times")     
 
-
-
-
-      
-   
 
 
