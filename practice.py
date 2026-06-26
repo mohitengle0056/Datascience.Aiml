@@ -661,7 +661,7 @@
 
 # my_list=[10,88,89,98,84,94,84]
 # for count in range (10):
-#   my_list[count] +1
+#   or i in range(len(my_list)-1)my_list[count] +1
 # print(my_list)  
 
 # my_list = [8,10,6,2,4]
@@ -676,18 +676,49 @@
 # print(my_list)   
 # print("My program has run for :", count, "times") 
 
-my_list = [8,10,6,2,4]
-swapped = True 
-count = 0
-while swapped:
-  swapped = False 
-  for i in range(len(my_list)-1):
-      count +=1
-  if my_list[i]>my_list[i+1]:
-    swapped  = True
-    my_list[i],my_list[i+1]=my_list[i+1],my_list[i+1]
-print(my_list)
-print("loops are runnimg for:",count,"times")     
+# my_list = [8,10,6,2,4]
+# swapped = True 
+# count = 0
+# while swapped:
+#   swapped = False 
+#   f:
+#       count +=1
+#   if my_list[i]>my_list[i+1]:
+#     swapped  = True
+#     my_list[i],my_list[i+1]=my_list[i+1],my_list[i+1]
+# print(my_list)
+# print("loops are runnimg for:",count,"times")
+
+# my_list =[8,10,6,2,4]
+# my_list.sort()
+# print(my_list)
+
+
+# lst = [5,3,1,2,4]
+# print(lst)
+# lst.reverse
+# print(lst)
+
+
+# list = [5,3,1,2,4]
+
+# count=0
+# for i in range(len(list)//2):
+#   count +=1
+#   list[i],list[len(list)-1-i]=list[len(list)-1-i],list[i]
+# print(list)
+# print("loops are running:",count,"Times")
+
+
+
+
+
+ 
+
+
+  
+
+
 
 
 
