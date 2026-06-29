@@ -705,9 +705,28 @@
 # count=0
 # for i in range(len(list)//2):
 #   count +=1
-#   list[i],list[len(list)-1-i]=list[len(list)-1-i],list[i]
-# print(list)
-# print("loops are running:",count,"Times")
+
+
+
+
+# Aksski value*****************************************************
+
+
+# lst = ["D","F","A","Z"]
+# lst.sort ()
+
+# print(lst)
+
+# print("A">"a")
+
+
+
+# lst = ["D","F","a","Z"]
+# lst.sort ()
+
+# print(lst)
+
+# print("A">"a")
 
 
 
